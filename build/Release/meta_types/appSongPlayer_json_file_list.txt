@@ -1,0 +1,2 @@
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/appSongPlayer_autogen/include/../EWIEGA46WW/moc_AudioInfo.cpp.json
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/appSongPlayer_autogen/include/../EWIEGA46WW/moc_PlayerController.cpp.json

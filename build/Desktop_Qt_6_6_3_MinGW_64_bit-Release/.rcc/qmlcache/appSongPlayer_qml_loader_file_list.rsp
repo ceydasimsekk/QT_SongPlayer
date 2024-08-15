@@ -1,0 +1,7 @@
+--resource
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Release/.rcc/qmake_SongPlayer.qrc
+--resource
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Desktop_Qt_6_6_3_MinGW_64_bit-Release/.rcc/appSongPlayer_raw_qml_0.qrc
+/qt/qml/SongPlayer/Main.qml
+/qt/qml/SongPlayer/AudioInfoBox.qml
+/qt/qml/SongPlayer/TextButton.qml

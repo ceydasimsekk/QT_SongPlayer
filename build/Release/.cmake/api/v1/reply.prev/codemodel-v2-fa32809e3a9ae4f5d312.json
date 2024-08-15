@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-763a68d25e72f8e70859.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SongPlayer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-4497101290f9d12c6e9b.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Release-70a120c2ee6be6b7f14f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Release-ece1bbf50912ba441f2f.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-ddb673854555c4b0f9b9.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer-Release-d9c5428c0f07a6562eae.json",
+					"name" : "appSongPlayer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_autogen-Release-99a0975682d521d16bfd.json",
+					"name" : "appSongPlayer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_autogen_timestamp_deps-Release-ad1598630e8ad4ba5a2e.json",
+					"name" : "appSongPlayer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmlimportscan-Release-c5ab8c998b00ccd94d41.json",
+					"name" : "appSongPlayer_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmllint-Release-0a97d9253e1dc3ce71ab.json",
+					"name" : "appSongPlayer_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmllint_json-Release-68438a157ca662431542.json",
+					"name" : "appSongPlayer_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmllint_module-Release-da2d13fdac155dba5c26.json",
+					"name" : "appSongPlayer_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_qmltyperegistration-Release-b3602596ebca4f008252.json",
+					"name" : "appSongPlayer_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appSongPlayer_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appSongPlayer_tooling-Release-f5c0de6ec31fd49e31c8.json",
+					"name" : "appSongPlayer_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release",
+		"source" : "C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

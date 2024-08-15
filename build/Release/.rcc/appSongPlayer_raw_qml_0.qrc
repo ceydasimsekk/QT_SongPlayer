@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/qt/qml/SongPlayer/">
+    <file alias="Main.qml">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/Main.qml</file>
+    <file alias="AudioInfoBox.qml">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/AudioInfoBox.qml</file>
+    <file alias="ImageButton.qml">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/ImageButton.qml</file>
+    <file alias="assets/image/song1.png">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/image/song1.png</file>
+    <file alias="assets/image/song2.jpg">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/image/song2.jpg</file>
+    <file alias="assets/image/song3.jpg">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/image/song3.jpg</file>
+    <file alias="assets/icons/app_icon.ico">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/icons/app_icon.ico</file>
+    <file alias="assets/icons/next_icon.png">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/icons/next_icon.png</file>
+    <file alias="assets/icons/pause_icon.png">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/icons/pause_icon.png</file>
+    <file alias="assets/icons/play_icon.png">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/icons/play_icon.png</file>
+    <file alias="assets/icons/previous_icon.png">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/icons/previous_icon.png</file>
+    <file alias="assets/videos/video_1.avi">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/videos/video_1.avi</file>
+    <file alias="assets/audio/somebody_else.mp3">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/audio/somebody_else.mp3</file>
+    <file alias="assets/audio/Surprises.mp3">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/audio/Surprises.mp3</file>
+    <file alias="assets/audio/air_on_the_g_string.mp3">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/assets/audio/air_on_the_g_string.mp3</file>
+  </qresource>
+</RCC>
+

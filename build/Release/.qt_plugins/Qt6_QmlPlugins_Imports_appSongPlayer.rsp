@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer
+-cmake-output
+-output-file
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/.qt_plugins/Qt6_QmlPlugins_Imports_appSongPlayer.cmake
+-importPath
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/SongPlayer
+-importPath
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release
+-importPath
+C:/Qt/6.6.3/mingw_64/./qml
+-qrcFiles
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/.rcc/qmake_SongPlayer.qrc
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/.rcc/appSongPlayer_raw_qml_0.qrc

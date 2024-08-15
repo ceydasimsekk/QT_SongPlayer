@@ -1,0 +1,14 @@
+--bare
+-I
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release
+-I
+C:/Qt/6.6.3/mingw_64/./qml
+--resource
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/.rcc/qmake_SongPlayer.qrc
+--resource
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/.rcc/appSongPlayer_raw_qml_0.qrc
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/Main.qml
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/AudioInfoBox.qml
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/ImageButton.qml
+--json
+C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/appSongPlayer_qmllint.json

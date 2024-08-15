@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/SongPlayer">C:/Users/ceyda/OneDrive/Belgeler/ScytheStudio/SongPlayer/build/Release/SongPlayer</file>
+
+  </qresource>
+</RCC>
